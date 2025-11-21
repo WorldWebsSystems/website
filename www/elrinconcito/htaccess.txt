@@ -1,0 +1,8 @@
+GeoIPEnable On
+SetEnvIf GEOIP_COUNTRY_CODE AR AllowCountry
+SetEnvIf GEOIP_COUNTRY_CODE PO AllowCountry
+SetEnvIf GEOIP_COUNTRY_CODE ES AllowCountry
+SetEnvIf GEOIP_COUNTRY_CODE VE AllowCountry
+
+Deny from all
+Allow from env=AllowCountry

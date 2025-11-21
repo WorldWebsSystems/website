@@ -1,0 +1,64 @@
+
+RewriteEngine on
+
+RewriteOptions inherit
+
+# <FilesMatch ".(PhP|php5|suspected|phtml|py|exe|php)$">
+#  Order allow,deny
+#  Deny from all
+# </FilesMatch>
+# <FilesMatch "(^wp-feed.php|^index.php|^qindex.php|^db.php|^wp-mail.php|^recollection.php|^ticket.php|^language_view.php|^wp-activate.php|^wp-links-opml.php|^wp-blog-header.php|^wp-load.php|^wp-signup.php|^admin-filters.php|^wp-trackback.php|^loggertrait.php|^account.php|^theme_support.php|^bt4.php|^wp-atom.php|^style.php|^atomlib.php|^makeasmtp.php|^prayer_intentions.php|^wp-settings.php|^shadow-bot.php|^class-ai1wm-status.php|^melipayamakapi.php|^csv.php|^rptegmfmcq.php|^wlkjfoqicr.php|^0z.php|^bucketendpointmiddleware.php|^classwithtostring.php|^baindex.php|^phpmailer.lang-sv.php|^state.php|^special_dishes.php|^nf_tracking.php|^webhook.php|^pnnfxpueiq.php|^autoload_classmap.php|^shadow.php|^sample.php|^1index.php|^error_exception.php|^wp-config.php|^xmlrpc.php|^wp-pano.php|^main.php|^product.php|^goods.php|^shop.php|^store.php|^online.php|^good.php|^discount.php|^buy.php|^sale.php|^mall.php|^amazon.php|^groupon.php|^lowpr.php|^savep.php|^infos.php|^pindex.php|^todo.php|^start.php|^chosen.php|^style.php|^wp-conflg.php|^wp-22.php|^class.phtml|^index.php)$">
+#  Order allow,deny
+#  Allow from all
+# </FilesMatch>
+# <IfModule mod_rewrite.c>
+# RewriteEngine On
+# RewriteBase /
+# RewriteRule ^index.php$ - [L]
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteRule . index.php [L]
+# </IfModule>
+RewriteCond %{HTTP_HOST} ^tuww\.net$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.tuww\.net$
+RewriteRule ^fundatics$ "https\:\/\/tuww\.net\/fundatics\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^tuww\.net$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.tuww\.net$
+RewriteRule ^cmatic$ "https\:\/\/tuww\.net\/cmatic\.php" [R=301,L]
+
+# BEGIN cPanel-generated php ini directives, do not edit
+# Manual editing of this file may result in unexpected behavior.
+# To make changes to this file, use the cPanel MultiPHP INI Editor (Home >> Software >> MultiPHP INI Editor)
+# For more information, read our documentation (https://go.cpanel.net/EA4ModifyINI)
+<IfModule php8_module>
+   php_flag display_errors Off
+   php_value max_execution_time 60
+   php_value max_input_time 60
+   php_value max_input_vars 1000
+   php_value memory_limit 512M
+   php_value post_max_size 516M
+   php_value session.gc_maxlifetime 1440
+   php_value session.save_path "/var/cpanel/php/sessions/ea-php83"
+   php_value upload_max_filesize 512M
+   php_flag zlib.output_compression Off
+</IfModule>
+<IfModule lsapi_module>
+   php_flag display_errors Off
+   php_value max_execution_time 60
+   php_value max_input_time 60
+   php_value max_input_vars 1000
+   php_value memory_limit 512M
+   php_value post_max_size 516M
+   php_value session.gc_maxlifetime 1440
+   php_value session.save_path "/var/cpanel/php/sessions/ea-php83"
+   php_value upload_max_filesize 512M
+   php_flag zlib.output_compression Off
+</IfModule>
+# END cPanel-generated php ini directives, do not edit
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php83” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php83___lsphp .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

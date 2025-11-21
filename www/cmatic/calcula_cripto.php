@@ -1,0 +1,2 @@
+<script async src="https://static.coinstats.app/widgets/coin-price-widget.js"></script>
+<coin-stats-ticker-widget coin-id="worldcoin-wld" locale="en" currency="USD" background="#FFFFFF" text-color="#1C1B1B" border-color="rgba(28,27,27,0.15)" type="medium" font="Roboto, Arial, Helvetica" height="149" width="350" rank-background="#E47103" status-up-color="#4F8A5B" status-down-color="#FE4747" rank-text-color="#FFFFFF" ></coin-stats-ticker-widget>

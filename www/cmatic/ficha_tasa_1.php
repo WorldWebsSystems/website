@@ -1,0 +1,1 @@
+<iframe id='iframe<?php echo $i; ?>' name='iframe<?php echo $i; ?>' width="<?php echo $ancho; ?>" height="<?php echo $alto3; ?>" src="<?php echo $url_iframeA; ?>" frameborder="0" scrolling = "no" allowfullscreen style="border:none;"></iframe>

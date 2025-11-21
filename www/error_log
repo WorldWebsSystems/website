@@ -1,0 +1,833 @@
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[17-Jun-2025 20:11:53 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(tarifas_5.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(tarifas_5.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(): Failed opening 'tarifas_5.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[12-Jul-2025 00:35:12 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[12-Jul-2025 17:01:12 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(tarifas_5.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(tarifas_5.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(): Failed opening 'tarifas_5.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[20-Jul-2025 01:01:10 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[26-Jul-2025 22:29:44 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[13-Aug-2025 14:43:42 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[16-Sep-2025 00:10:45 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(tarifas_5.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(tarifas_5.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(): Failed opening 'tarifas_5.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[16-Sep-2025 05:02:42 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[17-Sep-2025 14:05:27 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[17-Sep-2025 14:12:03 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[21-Sep-2025 13:44:01 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(tarifas_5.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(tarifas_5.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(): Failed opening 'tarifas_5.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[22-Sep-2025 18:10:46 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[22-Sep-2025 18:11:00 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[30-Sep-2025 07:31:39 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(tarifas_5.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(tarifas_5.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(): Failed opening 'tarifas_5.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[30-Sep-2025 07:31:42 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[01-Oct-2025 07:49:01 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[03-Oct-2025 15:31:47 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[03-Oct-2025 15:31:50 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[07-Oct-2025 11:48:06 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 8
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 24
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 26
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 50
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(tarifas_5.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(tarifas_5.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(): Failed opening 'tarifas_5.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 176
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 180
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[07-Oct-2025 11:52:11 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/ia.php on line 184
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[10-Oct-2025 19:32:25 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(): Failed opening 'popup.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(graba_historial.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(): Failed opening 'graba_historial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 25
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(): Failed opening 'encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 35
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(dimensiones.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(): Failed opening 'dimensiones.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 47
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(index_1.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(): Failed opening 'index_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 69
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 257
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 273
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 289
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 305
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(index_instagram.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(): Failed opening 'index_instagram.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 322
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(pie_pagina.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(): Failed opening 'pie_pagina.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 353
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(estilo.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[10-Oct-2025 19:32:35 UTC] PHP Warning:  include(): Failed opening 'estilo.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 357
+[18-Oct-2025 08:37:07 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[18-Oct-2025 08:37:07 UTC] PHP Warning:  include(index_encabezado.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[18-Oct-2025 08:37:07 UTC] PHP Warning:  include(): Failed opening 'index_encabezado.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/ncfgiils/cmatic.live/www/index.php on line 20
+[18-Oct-2025 08:37:07 UTC] PHP Warning:  include(popup.php): failed to open stream: No such file or directory in /home4/ncfgiils/cmatic.live/www/index.php on line 22
+[18-Oct-2025 08:37:07 UTC] PHP Warning:  include(popup.php): failed to open stream: 
